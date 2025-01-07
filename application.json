@@ -12,3 +12,13 @@ origin https://github.com/GoudSagar/Automation-devops.git(fetch)
 origin https://github.com/GoudSagar/Automation-devops.git(push)
 upstream https://github.com/devopscloudtrainer/Automation-devops.git(fetch)
 upstream  https://github.com/devopscloudtrainer/Automation-devops.git(push)
+
+
+=============================================================================================================================
+3. git pull:  Pull is mechanism for downloading the updated changes from remote repository branch to local repository branch.
+
+   command: git pull origin branch_name
+            git pull origin --tags
+
+origin -  is an alias/shortname of the github url
+
